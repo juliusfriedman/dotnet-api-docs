@@ -194,7 +194,7 @@
         <AssemblyName>Microsoft.Bcl.AsyncInterfaces</AssemblyName>
       </AssemblyInfo>
       <Attributes>
-        <Attribute FrameworkAlternate="dotnet-plat-ext-5.0;net-5.0">
+        <Attribute FrameworkAlternate="net-5.0">
           <AttributeName>get: System.Runtime.CompilerServices.IsReadOnly</AttributeName>
         </Attribute>
       </Attributes>
